@@ -1,4 +1,0 @@
-60518291c1d10657714612410912823b
-
-
-http://api.positionstack.com/v1/forward?access_key=60518291c1d10657714612410912823b&query=Shah-re-Naw Ministry of Interior Street Kabul&country=afghanistan&region=kabul

@@ -9,7 +9,7 @@
 7, Austria,Wina,Gustav Tschermakgasse 5-7 Vienna,48.198674,16.348388
 8, Azerbaijan,Baku,Azer Aliyev 3 Nasimi Baku,40.39574,49.82162
 9, Bahrain,Manama ,Villa 2113 Road 2432 Manama,26.222771450000003,50.588947753659276
-10, Bangladesh,Dhaka ,Road No 53 Plot No 14 Gulshan Dhaka,10.606010000000001,-61.12923000000001
+10, Bangladesh,Dhaka ,Road No 53 Plot No 14 Gulshan Dhaka,23.79615,90.41278
 11, Belanda,Den Haag ,Tobias Asserlaan 8 Den Haag,52.08614420000001,4.2886995
 12, Belgia,Brussels ,Boulevardde la Woluwe 38 Brussels,50.843183,4.371755
 13, Bosnia dan Herzegovina,Sarajevo,Splitska 9. Sarajevo,43.8507066,18.4035497
@@ -36,7 +36,7 @@
 34, Kanada,Ottawa,55 Parkdale Avenue. Ottawa,45.41031695,-75.73403285137363
 35, Kazakhstan,Astana,Saraishyk Street Diplomatic town. Nur-Sultan,51.13426,71.42582
 36, Kenya,Nairobi,Menengai Rd Upper Hill. Nairobi,-1.3009608999999998,36.8114114
-37, Kolombia,Bogota ,Calle 70 Bogota,4.635456,-74.08768
+37, Kolombia,Bogota ,Calle 70 Bogota,4.704367400000001,-74.123511
 38, Korea Selatan,Seoul,380 Yeouidaebang-ro Yeongdeungpo-gu. Seoul,37.5185278,126.9307665
 39, Korea Utara,Pyongyang ,Munsudong Taedonggang Distric Pyongyang,39.02403,125.78696
 40, Kroasia,Zagreb,Ulica Medveak 56 Zagreb,45.806026,15.976218
@@ -71,9 +71,9 @@
 69, Singapura,Singapura,7 Chatsworth Road. Singapore,1.3002076,103.8219897
 70, Slowakia,Bratislava,Brnianska 31. Bratislava,48.164029799999994,17.085551438997328
 71, Spanyol,Madrid ,Calle de Agastia No  65. Madrid,40.4447916,-3.6501968000000002
-72, Sri Lanka,Damascus,Sarana Road 400/50 Colombo,6.910435799999999,79.8929899
+72, Sri Lanka,Colombo,Sarana Road 400/50 Colombo,6.910435799999999,79.8929899
 73, Sudan,Khartoum,Street 60 Block No 12 Al Riyadh Area Khartoum,15.551770000000001,32.53241
-74, Suriah,Damaskus ,al-Madina al-Munawara Street Block 270A Building No 26 Damascus,33.49765,36.25101
+74, Suriah,Damascus,al-Madina al-Munawara Street Block 270A Building No 26 Damascus,33.49765,36.25101
 75, Suriname,Paramaribo,Van Brussellaan 3  Paramaribo,5.8245945,-55.1931909
 76, Swedia,Stockholm ,Kungsbroplan 1. Stockholm,59.331716799999995,18.0493932
 77, Swiss,Bern ,Elfenauweg 51. Bern,46.9371968,7.466099000000001
